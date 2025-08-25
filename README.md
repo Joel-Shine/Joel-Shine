@@ -47,11 +47,8 @@
 
 ## 📫 Social Links
 
-> _Add your links below (Instagram, YouTube, LinkedIn, etc.)_
-
-- [Instagram]()
-- [YouTube]()
-- [LinkedIn]()
+- [Instagram](https://www.instagram.com/joel.shine007/)
+- [LinkedIn](https://www.linkedin.com/in/joel-shine-478979374/)
 
 ---
 
