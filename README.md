@@ -42,6 +42,9 @@
 
 - Chess (Checkmate! ♟️)
 - Table Tennis (Spin master 🏓)
+- Basketball (Shooter 🏀)
+- Watching F1 (Lewis Hamilton ! 🏎)
+
 
 ---
 
