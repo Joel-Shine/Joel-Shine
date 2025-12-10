@@ -28,6 +28,12 @@
 - **Keydock (Password Manager)**  
   _Secure and simple password management tool._
 
+- **Formula1_OS (Fan Work)**  
+  _The Ultimate Terminal experience for an F1 Fan._
+
+- **Resonance (Music Player)**  
+  _For the audiophiles who live in the terminal._
+
 ---
 
 ## 🛠️ Skills
