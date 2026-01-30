@@ -34,6 +34,15 @@
 - **Resonance (Music Player)**  
   _For the audiophiles who live in the terminal._
 
+- **Mirage**  
+  _The Deadman's Protocol for a military-grade encryption utility._
+
+- **Onyx**  
+  _A zero-knowledge encrypted file sharing system._
+
+- **dot (text editor)**  
+  _15% of VS Code for a holy RAM usage._
+
 ---
 
 ## 🛠️ Skills
